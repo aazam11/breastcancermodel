@@ -1,0 +1,6 @@
+setup.py
+BREASTCANCERMODEL.egg-info/PKG-INFO
+BREASTCANCERMODEL.egg-info/SOURCES.txt
+BREASTCANCERMODEL.egg-info/dependency_links.txt
+BREASTCANCERMODEL.egg-info/requires.txt
+BREASTCANCERMODEL.egg-info/top_level.txt
